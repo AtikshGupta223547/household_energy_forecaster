@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw large dataset files (>100MB exceeds GitHub push limit)
+data/raw/*.zip
+data/raw/*.txt
+
+# Operating System files
+Thumbs.db
+.DS_Store
+*.swp
