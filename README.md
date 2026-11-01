@@ -284,3 +284,5 @@ Open your browser to `http://localhost:8501` to view live metric cards, adjust d
 This project is open-source and distributed under the [MIT License](LICENSE).
 Telemetry data source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption).
 Weather data source: [Open-Meteo Archive API](https://open-meteo.com/).
+#   h o u s e h o l d _ e n e r g y _ f o r e c a s t e r  
+ 
